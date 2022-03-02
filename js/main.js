@@ -46,15 +46,15 @@
 // setInterval(() => {
 //   console.log("Hello!");
 // }, 1000);
-let img = $("img");
-setTimeout(() => {
-  img.css("transition", "all 7s ease");
-  img.css("opacity", "0%");
-}, 7000);
-setTimeout(() => {
-  img.css("transition", "all 7s ease");
-  img.css("opacity", "100%");
-}, 7000);
+// let img = $("img");
+// setTimeout(() => {
+//   img.css("transition", "all 7s ease");
+//   img.css("opacity", "0%");
+// }, 7000);
+// setTimeout(() => {
+//   img.css("transition", "all 7s ease");
+//   img.css("opacity", "100%");
+// }, 7000);
 
 // !калькулятор
 // function sub() {
